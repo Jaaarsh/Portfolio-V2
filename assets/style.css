@@ -1,0 +1,18 @@
+
+* {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.header{
+    background-color: #2a607c;
+    color: white;
+    
+}
+
+.card {
+    color: white;
+}
+
+.card-img {
+    max-width: 70%;
+    height: auto;
+}
